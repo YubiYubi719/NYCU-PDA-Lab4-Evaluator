@@ -14,6 +14,7 @@
 ## Execution
 ```
 $ git clone https://github.com/YubiYubi719/NYCU-PDA-Lab4-Evaluator.git
+$ cd NYCU-PDA-Lab4-Evaluator
 $ tar xvf Evaluator.tar
 $ cd Evaluator
 $ chmod 755 Evaluator
