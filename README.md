@@ -26,7 +26,7 @@ $ ./Evaluator <fileDirPath> <testcaseName>
 
 ## Output Result
 If you see a pretty table like this, congratulations!  
-![alt text](image.png)
+![result.png](result.png)
 
 ## Bonus
 If you find any bugs, feel free to contact us! Once your observation is verified, you will receive 1 bonus point for this lab.
