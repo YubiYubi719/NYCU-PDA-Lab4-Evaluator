@@ -24,6 +24,12 @@ $ ./Evaluator <fileDirPath> <testcaseName>
 // ./Evaluator ~/publicCase testcase0
 ```
 
+## Update
+```
+$ cd NYCU-PDA-Lab4-Evaluator
+$ git pull
+```
+
 ## Output Result
 If you see a pretty table like this, congratulations!  
 ![alt text](image.png)
