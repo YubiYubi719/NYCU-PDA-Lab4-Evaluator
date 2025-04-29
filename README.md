@@ -36,5 +36,4 @@ If you see a pretty table like this, congratulations!
 
 ## Bonus
 If you find any bugs, feel free to contact us! Once your observation is verified, you will receive 1 bonus point for this lab.
-* TA1: 林煜睿, yrlin719.ee12@nycu.edu.tw
-* TA2: 陳煥沅, ryan.chen.1104@gmail.com
+* TA: 林煜睿, yrlin719.ee12@nycu.edu.tw
