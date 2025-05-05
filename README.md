@@ -34,6 +34,13 @@ $ git pull
 If you see a pretty table like this, congratulations!  
 ![alt text](image.png)
 
+## Toycase
+```
+$ cd NYCU-PDA-Lab4-Evaluator
+$ git pull
+$ ./Evaluator ./toycase example
+```
+
 ## Bonus
 If you find any bugs, feel free to contact us! Once your observation is verified, you will receive 1 bonus point for this lab.
 * TA: 林煜睿, yrlin719.ee12@nycu.edu.tw
